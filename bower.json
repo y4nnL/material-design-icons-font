@@ -1,0 +1,14 @@
+{
+    "name" : "material-design-icons-font",
+    "author" : "Material Design Authors",
+    "description" : "Material Design icons by Google",
+    "keywords" : [
+        "icons",
+        "material",
+        "material-design",
+        "google"
+    ],
+    "license" : "Apache-2.0",
+    "homepage" : "https://gitlab.id-apps.info/interne-idapps-angular/material-design-icons-font",
+    "version" : "1.0"
+}
